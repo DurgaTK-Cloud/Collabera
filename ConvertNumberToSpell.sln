@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberToSpellTest", "ConvertNumberToSpell\ConvertNumberToSpellTest.csproj", "{4BEC1713-3138-47E5-8B13-22CA8B322ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberToSpell", "NumberToSpell\ConvertNumberToSpell.csproj", "{D8B307CA-653A-4BE4-B087-F07EFE939E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConvertNumberToSpell", "ConsoleConvertNumberToSpell\ConsoleConvertNumberToSpell.csproj", "{5814C0C7-1361-4543-A5E0-580C5EB953B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BEC1713-3138-47E5-8B13-22CA8B322ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEC1713-3138-47E5-8B13-22CA8B322ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEC1713-3138-47E5-8B13-22CA8B322ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEC1713-3138-47E5-8B13-22CA8B322ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B307CA-653A-4BE4-B087-F07EFE939E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B307CA-653A-4BE4-B087-F07EFE939E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B307CA-653A-4BE4-B087-F07EFE939E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B307CA-653A-4BE4-B087-F07EFE939E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5814C0C7-1361-4543-A5E0-580C5EB953B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5814C0C7-1361-4543-A5E0-580C5EB953B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5814C0C7-1361-4543-A5E0-580C5EB953B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5814C0C7-1361-4543-A5E0-580C5EB953B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
